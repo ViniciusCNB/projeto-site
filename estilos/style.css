@@ -1,29 +1,29 @@
 * {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
 }
 
 body {
-    background-color: rgb(146, 146, 250);
+  background-color: rgb(146, 146, 250);
 }
 
 main {
-    background-color: white;
-    width: 500px;
-    margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+  background-color: white;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 
 img.lado {
-    float: right;
+  float: right;
 }
 
 h1 {
-    font-size: 30px;
-    color: rgb(105, 105, 248);
+  font-size: 30px;
+  color: rgb(105, 105, 248);
 }
 
 h2 {
-    font-size: 20px;
+  font-size: 20px;
 }
